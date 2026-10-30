@@ -4,7 +4,7 @@
 
 1. João Victor Bondaczuk Sousa 
 2. Danilos Ramos Clude
-3. Felipe dos Santos Evangelista
+3.
 
 **Prova:** API em MVC
 
